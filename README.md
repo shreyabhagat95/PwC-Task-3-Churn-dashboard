@@ -7,10 +7,10 @@ Steps followed :
 3. Created DAX Measures and column to explore more about these metrics ->CALCULATE(), SUM(), MAX() etc.
 
 Few of the insights are as follows-
--Out of all the 7043 customers, 27 % of the customers have churned last month.
--Tenure and contract plays an important role in determining whether the customer will churn or not.
--Customers with monthly contract i.e. lower tenure will switch frequently.
--Customers without any dependents and partners will churn more.
--Gender type doesn't have a direct impact on the churn decision. Non-senior citizens have a higher churning rate.
--Customers with Fibre Optic internet service have churned more. The payment method like Electronic check also makes a significant impact on churning decision.
--If company doesn't provide services like Tech Support, Device Protection and Online Security then the customer will opt for another service.
+1. Out of all the 7043 customers, 27 % of the customers have churned last month.
+2. Tenure and contract plays an important role in determining whether the customer will churn or not.
+3. Customers with monthly contract i.e. lower tenure will switch frequently.
+4. Customers without any dependents and partners will churn more.
+5. Gender type doesn't have a direct impact on the churn decision. Non-senior citizens have a higher churning rate.
+6. Customers with Fibre Optic internet service have churned more. The payment method like Electronic check also makes a significant impact on churning decision.
+7. If company doesn't provide services like Tech Support, Device Protection and Online Security then the customer will opt for another service.
